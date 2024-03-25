@@ -1,6 +1,6 @@
 ### Hi there 👋
 I created my first app, COPIKANA, in three days right after I learnt the basics of Python in Feb 2024!
-I am also a plant hobbyist, especially experienced orchids, micro-mini Sinningia, air plants and mexican butterwort.
+I am also a plant hobbyist, especially experienced orchids, micro-mini *Sinningia*, air plants and mexican butterworts.
 
 <!--
 **samhui96/samhui96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
